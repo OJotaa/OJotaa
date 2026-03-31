@@ -1,6 +1,6 @@
-# Olá 👋, eu sou o O Jota
+# Olá 👋, eu sou o João Victor
 
-💻 Estudante de Analista de Sistemas
+💻 Estudante e Analista de Sistemas
 🚀 Focado em Banco de Dados 
 📍 Brasil  
 
