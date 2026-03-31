@@ -1,45 +1,56 @@
-# Olá 👋, sou [Seu Nome Completo]
+# Olá 👋, eu sou o O Jota
 
-Professor | Desenvolvedor Full Stack | Especialista em Tecnologia da Informação
-
-## Sobre mim
-
-Professor efetivo nos cursos de **Análise e Desenvolvimento de Sistemas** e **Desenvolvimento de Software Multiplataforma**.  
-Com experiência sólida em desenvolvimento de sistemas, ensino superior e boas práticas de programação.
-
-- 🔭 Atualmente focado em: Desenvolvimento Web, APIs e soluções multiplataforma
-- 🌱 Aprimorando constantemente: Arquitetura de software e novas tecnologias
-- 📫 Contato: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+💻 Estudante de Analista de Sistemas
+🚀 Focado Banco de Dados 
+📍 Brasil  
 
 ---
 
-### Habilidades
+## 🧠 Sobre mim
 
-**Principais Tecnologias**
+Sou apaixonado por tecnologia e desenvolvimento de software.  
+Atualmente estudo e pratico diversas tecnologias voltadas para o mercado.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,html,css,sql&perline=7&theme=dark" />
-</p>
-
----
-
-### Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OJotaa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OJotaa&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OJotaa&theme=dark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
+- 🎓 Estudando Java, Python e Desenvolvimento Web  
+- 🐧 Conhecimentos em Linux  
+- 🗄️ Experiência com Banco de Dados  
+- ⚙️ Versionamento com Git e GitHub  
+- 🐳 Estudando Docker  
 
 ---
 
-### Conecte-se comigo
+## 🚀 Tecnologias e Ferramentas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OJotaa)
+### 💻 Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### ⚙️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- 📧 Email: seuemail@email.com  
+- 💼 LinkedIn: seu-linkedin  
