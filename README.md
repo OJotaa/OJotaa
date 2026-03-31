@@ -1,17 +1,17 @@
 # Olá 👋, eu sou o O Jota
 
 💻 Estudante de Analista de Sistemas
-🚀 Focado Banco de Dados 
+🚀 Focado em Banco de Dados 
 📍 Brasil  
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software.  
-Atualmente estudo e pratico diversas tecnologias voltadas para o mercado.
+Sou apaixonado por tecnologia e relacionamento de Danco de Dados 🎲
+Atualmente estudo e trabalho com Banco de Dados e sistema de gestão hospitalar (TASY)
 
-- 🎓 Estudando Java, Python e Desenvolvimento Web  
+- 🎓 Estudando Java, Python e Back End
 - 🐧 Conhecimentos em Linux  
 - 🗄️ Experiência com Banco de Dados  
 - ⚙️ Versionamento com Git e GitHub  
@@ -44,7 +44,7 @@ Atualmente estudo e pratico diversas tecnologias voltadas para o mercado.
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/OJotaaO&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
@@ -52,5 +52,5 @@ Atualmente estudo e pratico diversas tecnologias voltadas para o mercado.
 
 ## 📫 Contato
 
-- 📧 Email: seuemail@email.com  
-- 💼 LinkedIn: seu-linkedin  
+- 📧 Email: joaovitinhoxd7@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-victor-da-silva-64ba16236/  
